@@ -1,2 +1,2 @@
-# Sota Face Tracking
-Robotics engineering group project
+# sota-face-tracking
+Sota Group Project

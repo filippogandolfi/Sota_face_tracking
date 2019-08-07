@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47056d62-2825-48a4-9eeb-bbb510cf368c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/FaceDetectorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FaceDetectorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/VocalInterface.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/VocalInterface.main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer$ReceivePhoto$Receive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer$ReceivePhoto$Receive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer$move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer$move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/PhotoAnalizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FaceDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FaceDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver$Receive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver$Receive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver$Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver$SendVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver$SendVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/build/classes/java/main/SotaDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/out/artifacts/SOTATEST_main_jar/SOTATEST.main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/out/artifacts/SOTATEST_main_jar/SOTATEST.main.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOTATEST/src/main/java/SotaDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SOTATEST/src/main/java/SotaDriver.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VocalInterface" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8540</find>
+      <find>database</find>
+      <find>respo</find>
+      <find>audioForm</find>
+      <find>SotaIP</find>
+      <find>sotaIP</find>
+      <find>845</find>
+      <find>ServerSocket</find>
+      <find>Socke</find>
+      <find>initIP</find>
+      <find>Socket</find>
+      <find>infiniteStreamingRecognize</find>
+      <find>sharedQueue</find>
+      <find>micrunnable</find>
+      <find>micThread</find>
+      <find>main</find>
+      <find>casc</find>
+      <find>dist</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OVCOYOQONv3zKTdrMYVsbXofmX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560237897621" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FaceDetectorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="VocalInterface.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FaceDetectorKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FaceDetectorKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47056d62-2825-48a4-9eeb-bbb510cf368c" name="Default Changelist" comment="" />
+      <created>1559576188109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559576188109</updated>
+      <workItem from="1559576191314" duration="573000" />
+      <workItem from="1559576813310" duration="3911000" />
+      <workItem from="1559636121171" duration="786000" />
+      <workItem from="1559637112773" duration="2581000" />
+      <workItem from="1559639983288" duration="3598000" />
+      <workItem from="1559654567232" duration="83000" />
+      <workItem from="1559654710337" duration="42000" />
+      <workItem from="1559654803946" duration="26000" />
+      <workItem from="1559654886898" duration="123000" />
+      <workItem from="1559661804279" duration="3990000" />
+      <workItem from="1559741095479" duration="15855000" />
+      <workItem from="1559915855060" duration="1374000" />
+      <workItem from="1560156110016" duration="21522000" />
+      <workItem from="1560265162058" duration="1347000" />
+      <workItem from="1560431857249" duration="1585000" />
+      <workItem from="1560434003464" duration="3750000" />
+      <workItem from="1560802674522" duration="1427000" />
+      <workItem from="1560804538833" duration="6435000" />
+      <workItem from="1563364637914" duration="4867000" />
+      <workItem from="1563373494120" duration="19206000" />
+      <workItem from="1563442679223" duration="14249000" />
+      <workItem from="1563462063460" duration="858000" />
+      <workItem from="1563467014087" duration="5973000" />
+      <workItem from="1563473442863" duration="3224000" />
+      <workItem from="1563529183273" duration="18732000" />
+      <workItem from="1563555262353" duration="1226000" />
+      <workItem from="1563556507508" duration="5528000" />
+      <workItem from="1563618423746" duration="14807000" />
+      <workItem from="1563653766209" duration="623000" />
+      <workItem from="1563719591001" duration="4937000" />
+      <workItem from="1563725646895" duration="5933000" />
+      <workItem from="1563783952588" duration="14382000" />
+      <workItem from="1563803250489" duration="13432000" />
+      <workItem from="1563871864190" duration="20129000" />
+      <workItem from="1563956309355" duration="4423000" />
+      <workItem from="1563974961911" duration="8979000" />
+      <workItem from="1564053353264" duration="3864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|vocalinterface.VocalInterface</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.fasterxml.jackson.core:jackson-core:2.9.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
