@@ -24,3 +24,6 @@ in red. This scenario has some necessary preconditions: we
 assume that only one person at a time can be inside the room
 and that we have another external system who recognizes
 when the user enters and exits from the room.
+
+# Authors:
+Ravi Aggadi, Francesca Canale, Francesca Cantoni, Filippo Gandolfi and Marco Giordano
